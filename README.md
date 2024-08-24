@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Finland
-* 🖥️  See my portfolio at [Palikka](http://palikka.gq/portfolio)
+* 🖥️  See my website at [Palikka](http://palikka.rf.gd/)
 * ✉️  You can contact me at [terracraft@pm.me](mailto:terracraft@pm.me)
 * 🧠  I'm learning Computer Science at University Of Eastern Finland
 
