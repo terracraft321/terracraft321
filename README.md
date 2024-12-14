@@ -1,13 +1,10 @@
-Hi 👋 My name is Joni
+Hi 👋
 =====================
 
 Software Engineer
 -----------------
-
-* 🌍  I'm based in Finland
 * 🖥️  See my website at [Palikka](http://palikka.rf.gd/)
-* ✉️  You can contact me at [terracraft@pm.me](mailto:terracraft@pm.me)
-* 🧠  I'm learning Computer Science at University Of Eastern Finland
+* 🧠  CS
 
 <a href="https://www.github.com/terracraft321" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/terracraft321?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
